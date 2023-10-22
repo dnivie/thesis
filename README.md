@@ -15,7 +15,7 @@ The other graph is showing motor response of pwm output, the resulting polynomia
 
 Calculated motor response:
 
-<img src="picture/motor_response.PNG" width="600"/>
+<img src="pictures/motor_response.PNG" width="600"/>
 
 Parameters used for the motor and propeller:
 
